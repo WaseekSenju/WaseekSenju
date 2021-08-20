@@ -3,7 +3,6 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Subham</h1>
 <h3 align="center">I'm a passionate Full Stack Developer from India.</h3>
 
-
 ## 🙋‍♂️ About Me
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
@@ -15,10 +14,11 @@
 - ⚡ Fun fact **I play games and go to the GYM very often.**
 
 ## 🚀 Languages and Tools:
+
 <p align="left">
      <a href="https://www.w3schools.com/cpp/cpp_intro.asp" target="_blank"> <img src="https://img.icons8.com/color/50/000000/c-plus-plus-logo.png" width="48" height="48"/> </a> 
      <a href="https://flutter.dev/" target="_blank"> <img src="https://cdn.iconscout.com/icon/free/png-256/flutter-2038877-1720090.png" width="48" height="48"/> </a> 
-    <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"> <img src="<a href="https://www.freeiconspng.com/img/28402">c# logo download icon</a>" width="48" height="48"/> </a> 
+    <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"> <img src="https://www.freeiconspng.com/uploads/c-logo-icon-18.png" width="48" height="48"/> </a> 
     <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
@@ -49,7 +49,6 @@
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
-
 <br/>
 <br/>
 
@@ -59,6 +58,7 @@
 <br/>
 
 ## Connect with me:
+
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/subham-raoniar/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
@@ -69,6 +69,7 @@
 </p>
 
 ## ❤ Views and Followers
+
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=SubhamRaoniar28">
 </a>
