@@ -15,11 +15,9 @@
 - ⚡ Fun fact **I play games and go to the GYM very often.**
 
 ## 🚀 Languages and Tools:
-
 <p align="left">
-     <a href="https://www.w3schools.com/cpp/cpp_intro.asp" target="_blank"> <img src="https://en.wikipedia.org/wiki/C%2B%2B#/media/File:ISO_C++_Logo.svg" width="48" height="48"/> </a> 
+     <a href="https://www.w3schools.com/cpp/cpp_intro.asp" target="_blank"> <img src="https://img.icons8.com/color/50/000000/c-plus-plus-logo.png" width="48" height="48"/> </a> 
      <a href="https://flutter.dev/" target="_blank"> <img src="https://cdn.iconscout.com/icon/free/png-256/flutter-2038877-1720090.png" width="48" height="48"/> </a> 
-     <a href=https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"> <img src="<a href="https://www.freeiconspng.com/img/28402">c# logo download icon</a>" width="48" height="48"/> </a> 
     <a href="https://flutter.dev/" target="_blank"> <img src="https://cdn.iconscout.com/icon/free/png-256/flutter-2038877-1720090.png" width="48" height="48"/> </a> 
     <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
