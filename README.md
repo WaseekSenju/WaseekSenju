@@ -1,34 +1,109 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+<!-- Banner -->
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Waseek</h1>
-<h3 align="center">I'm a computer scientist and tech enthusiast .</h3>
 
-## 🙋‍♂️ About Me
+<h1 align="center">Hey there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Waseek Ahmed</h1>
+<h3 align="center">Software Engineer</h3>
 
-- 🌱 I’m exploring Machine Learning now a days in my degree course.
+---
 
-- 👯 I’m looking to collaborate on **Flutter Projects**
+## 🧑‍💻 About Me
 
-- 📫 How to reach me **waseeq69ahmed@gmail.com**
+Full-time Software Engineer with a CS background. I build modern web and mobile apps using cutting-edge frameworks like Flutter, Next.js, and Rails.
+Exploring machine learning and large language models.
+For fun, I enjoy video editing and creative storytelling.
 
-- ⚡ Fun fact I am a passionate **video editor** and I love film-making and editing
+---
 
-## 🚀 Languages and Tools:
+## 🧵 Core CS & Parallel Programming
 
-<p align="left">
-     <a href="https://www.w3schools.com/cpp/cpp_intro.asp" target="_blank"> <img src="https://img.icons8.com/color/50/000000/c-plus-plus-logo.png" width="48" height="48"/> </a> 
-     <a href="https://flutter.dev/" target="_blank"> <img src="https://cdn.iconscout.com/icon/free/png-256/flutter-2038877-1720090.png" width="48" height="48"/> </a> 
-    <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"> <img src="https://www.freeiconspng.com/uploads/c-logo-icon-18.png" width="48" height="48"/> </a> 
-    <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
-    <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
-    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
-    <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
-    <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
-    <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a> 
-    <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a> 
-    
+<p>
+  <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" width="36" height="36"/>
+  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" width="36" height="36"/>
+<img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" width="36" height="36"/>
+
 </p>
 
+- Developed low-level apps using **C/C++**
+- Familiar with **OpenMP**, **MPI**, and **CUDA** for parallel & GPU computing
+- Strong grasp of **OS concepts**, **data structures**, and **algorithms**
+
+---
+
+## 🤖 Machine Learning & Data Science
+
+<p>
+  <img src="https://img.icons8.com/color/48/000000/python.png" width="36" height="36"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/1200px-Keras_logo.svg.png" width="36" height="36"/>
+  <img src="https://img.icons8.com/color/48/000000/pandas.png" width="36" height="36"/>
+  <img src="https://img.icons8.com/color/48/000000/numpy.png" width="36" height="36"/>
+</p>
+
+- Built models using **Keras**, **scikit-learn**, and **TensorFlow**
+- Comfortable with **data preprocessing** using **NumPy**, **Pandas**
+- Worked in **Jupyter Notebooks** and **Google Colab**
+
+---
+
+## 📱 Mobile App Development
+
+<p>
+  <img src="https://cdn.iconscout.com/icon/free/png-256/flutter-2038877-1720090.png" width="36" height="36"/>
+  <img src="https://img.icons8.com/color/48/000000/dart.png" width="36" height="36"/>
+  <img src="https://img.icons8.com/color/48/000000/android-os.png" width="36" height="36"/>
+<img src="https://img.icons8.com/color/48/000000/swift.png" width="36" height="36"/>
+
+</p>
+
+- Developed cross-platform apps with **Flutter** & **Dart**
+- Experience with **native Android** using **Java/Kotlin**
+- Basic exposure to **Swift** & **SwiftUI**
+
+---
+
+## 🌐 Web Development
+
+<p>
+  <img src="https://img.icons8.com/color/48/000000/javascript.png" width="36" height="36"/>
+  <img src="https://img.icons8.com/color/48/000000/vue-js.png" width="36" height="36"/>
+  <img src="https://img.icons8.com/plasticine/100/000000/react.png" width="36" height="36"/>
+  <img src="https://img.icons8.com/color/48/000000/ruby-programming-language.png" width="36" height="36"/>
+  <img src="https://img.icons8.com/color/48/000000/html-5.png" width="36" height="36"/>
+  <img src="https://img.icons8.com/color/48/000000/css3.png" width="36" height="36"/>
+</p>
+
+- Built web UIs with **Vue.js**, **React**, and **Next.js**
+- Backend experience with **Ruby on Rails** and RESTful APIs
+- Solid understanding of **HTML**, **CSS**, **JavaScript**, and **Bootstrap**
+
+---
+
+## 🗃️ Databases & Backend Tools
+
+<p>
+  <img src="https://img.icons8.com/fluent/48/000000/mysql-logo.png" width="36" height="36"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="36" height="36"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="36" height="36"/>
+  <img src="https://img.icons8.com/color/48/000000/firebase.png" width="36" height="36"/>
+</p>
+
+- Worked with **PostgreSQL**, **MySQL**, and **SQLite**
+- Experience with **NoSQL** via **MongoDB** and **Firebase Firestore**
+- Integrated **Firebase Auth**, Realtime DB & Cloud Storage in mobile/web apps
+
+---
+
+## 📬 Contact Me
+
+- Email: [waseeq69ahmed@gmail.com](mailto:waseeq69ahmed@gmail.com)
+
+---
+
+## 🎬 Fun Fact
+
+Outside of code, I love **video editing** and **motovlogging**!
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
