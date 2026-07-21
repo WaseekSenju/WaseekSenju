@@ -1,15 +1,21 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:6366f1&height=220&section=header&text=Waseek%20Ahmed&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Systems%20%26%20ML&descAlignY=58&descSize=18"/>
+# Waseek Ahmed
+### Software Engineer · Systems & ML
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=6366F1&center=true&vCenter=true&width=650&lines=I+design+systems%2C+not+just+ship+syntax;Architecture+%E2%86%92+Tradeoffs+%E2%86%92+Scale;Flutter+%E2%80%A2+Rails+%E2%80%A2+ML+%2F+LLM+Systems;Debugging+is+the+skill+that+never+gets+automated" alt="Typing SVG" />
-</a>
+<br/>
+
+<h3>
+  <code>I design systems, not just ship syntax.</code>
+</h3>
+<p>
+  Architecture → Tradeoffs → Scale &nbsp;|&nbsp; Flutter • Rails • ML / LLM Systems &nbsp;|&nbsp; Debugging is the skill that never gets automated
+</p>
 
 <br/>
 
 <a href="mailto:waseeq69ahmed@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<img src="https://komarev.com/ghpvc/?username=waseekahmed&style=for-the-badge&color=6366f1&label=PROFILE+VIEWS"/>
+<img src="https://komarev.com/ghpvc/?username=WaseekSenju&style=for-the-badge&color=6366f1&label=PROFILE+VIEWS"/>
 
 </div>
 
@@ -102,16 +108,15 @@ I'm a Software Engineer with a Computer Science foundation who cares about **arc
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=waseekahmed&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=waseekahmed&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=WaseekSenju&theme=tokyonight&hide_border=true"/>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=waseekahmed&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=WaseekSenju&theme=tokyo-night&hide_border=true"/>
 
 </div>
 
-> **Note:** swap `waseekahmed` above for your actual GitHub username so the stat cards render correctly.
+> Some third-party stat-card services (the classic "stats + top languages" cards) are notoriously unreliable on their shared free tier — they go down or rate-limit at random. The streak counter and activity graph above tend to be more stable, but if either ever breaks, the fix is either to wait it out or self-host: fork [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) or [github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats) to your own free Vercel account.
 
 <br/>
 
@@ -131,4 +136,10 @@ Outside of engineering, I do **video editing and motovlogging** — a different 
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:0f172a&height=100&section=footer"/>
+<div align="center">
+
+---
+
+*Thanks for stopping by.*
+
+</div>
